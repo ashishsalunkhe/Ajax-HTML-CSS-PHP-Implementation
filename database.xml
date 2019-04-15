@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<users>
+  <profile>
+    <account>
+      <name>user</name>
+      <pass>user</pass>
+      <email>user@example.com</email>
+      <mobile>8888888888</mobile>
+      <age>27</age>
+    </account>
+  </profile>
+</users>
