@@ -14,20 +14,7 @@ Objects − are instances of programmer-defined classes, which can package up bo
 other kinds of values and functions that are specific to the class.
 Resources − are special variables that hold references to resources external to PHP
 # PHP MySQL Connectivity
-<?php
-$servername = "localhost";
-$username = "username";
-$password = "password";
-
-// Create connection
-$conn = new mysqli($servername, $username, $password);
-
-// Check connection
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-} 
-echo "Connected successfully";
-?>
+https://www.w3schools.com/php/php_mysql_connect.asp
 
 # 2. AJAX
 AJAX stands for Asynchronous JavaScript and XML. AJAX is a new technique for creating
